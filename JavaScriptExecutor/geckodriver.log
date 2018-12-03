@@ -1,0 +1,24 @@
+1518700837704	geckodriver	INFO	geckodriver 0.19.1
+1518700837874	geckodriver	INFO	Listening on 127.0.0.1:54834
+1518700840808	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.nxto2qKXVGvp"
+1518700850347	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518700864059	Marionette	INFO	Listening on port 54871
+1518700865663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518700865924	Marionette	DEBUG	Register listener.js for window 4294967297
+1518700866288	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518700867746	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518700867746	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://demo.vtiger.com/layouts/v7/lib/jquery/daterangepicker/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Vtiger.js?v=7.0.1, line 243: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 339: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 501: unreachable code after return statement
+1518700905770	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.vtiger.com/"
+1518700909188	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.vtiger.com/"
+1518700936483	geckodriver	INFO	geckodriver 0.19.1
+1518700936655	geckodriver	INFO	Listening on 127.0.0.1:55589

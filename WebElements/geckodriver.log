@@ -1,0 +1,1053 @@
+1518009676643	geckodriver	INFO	geckodriver 0.19.1
+1518009676743	geckodriver	INFO	Listening on 127.0.0.1:61111
+1518009679451	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.dUqZ1b1NDEun"
+1518009683217	Marionette	INFO	Enabled via --marionette
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518009692315	Marionette	INFO	Listening on port 61141
+1518009693517	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518009693679	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518009730860	geckodriver	INFO	geckodriver 0.19.1
+1518009730973	geckodriver	INFO	Listening on 127.0.0.1:61554
+1518009734058	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.v3lZ8wAUj8Vo"
+1518009735644	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518009741037	Marionette	INFO	Listening on port 61587
+1518009741646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518009741934	Marionette	DEBUG	Register listener.js for window 4294967297
+1518009742265	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518009744424	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518009744425	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://demo.vtiger.com/layouts/v7/lib/jquery/daterangepicker/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Vtiger.js?v=7.0.1, line 243: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 339: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 501: unreachable code after return statement
+1518009760217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.vtiger.com/"
+1518009764785	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.vtiger.com/"
+1518009959563	geckodriver	INFO	geckodriver 0.19.1
+1518009959709	geckodriver	INFO	Listening on 127.0.0.1:63230
+1518009962581	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.eulEAzqNZHNb"
+1518009964464	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Could not get a DXGI adapter
+1518009971593	Marionette	INFO	Listening on port 63264
+1518009972146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518009972355	Marionette	DEBUG	Register listener.js for window 4294967297
+1518009972431	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518009974052	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518009974052	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://demo.vtiger.com/layouts/v7/lib/jquery/daterangepicker/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Vtiger.js?v=7.0.1, line 243: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 339: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 501: unreachable code after return statement
+1518010000024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.vtiger.com/"
+1518010011678	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.vtiger.com/"
+1518010252390	geckodriver	INFO	geckodriver 0.19.1
+1518010252530	geckodriver	INFO	Listening on 127.0.0.1:65310
+1518010255430	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.iN2U9MvHgdKo"
+1518010257138	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518010263305	Marionette	INFO	Listening on port 65340
+1518010263525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518010263784	Marionette	DEBUG	Register listener.js for window 4294967297
+1518010264001	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518010267278	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518010267279	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://demo.vtiger.com/layouts/v7/lib/jquery/daterangepicker/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Vtiger.js?v=7.0.1, line 243: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 339: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 501: unreachable code after return statement
+1518010285823	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.vtiger.com/"
+1518010286103	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.vtiger.com/"
+1518010450196	geckodriver	INFO	geckodriver 0.19.1
+1518010450396	geckodriver	INFO	Listening on 127.0.15180104501518010453726	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\App1518010454597	mozrunner::runner	INFO	Running comm1518010456613	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518010470471	Marionette	INFO	Listening on port 50463
+1518010471195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518010474412	Marionette	DEBUG	Register listener[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+Unable to read VR Path Registry f1518010477413	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank[GFX1-]: Compositors might be mixed (1,3)
+[GFX1-]: Could not get a DXGI adapterUnable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://demo.vtiger.com/layouts/v7/lib/jquery/daterangepicker/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Vtiger.js?v=7.0.1, line 243: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 339: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 501: unreachable code after return statement
+1518010Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://demo.vtiger.com/layouts/v7/lib/jquery/daterangepicker/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Vtiger.js?v=7.0.1, line 243: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 339: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 501: unreachable code after return statement
+1518010530695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.vtiger.com/"
+1518010530706	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.vtiger.com/"
+: Error: Connection closed before committing the transaction.
+  Stack:
+    executeTransaction/promise</transactionPromise<@resource://gre/modules/Sqlite.jsm:617:19
+observe@resource://gre/modules/AsyncShutdown.jsm:534:9
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+1518010787928	geckodriver	INFO	geckodriver 0.19.1
+1518010788058	geckodriver	INFO	Listening on 127.0.0.1:53033
+1518010917864	geckodriver	INFO	geckodriver 0.19.1
+1518010917974	geckodriver	INFO	Listening on 127.0.0.1:53943
+1518010921047	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.QTo8HkOYUOGq"
+1518010922971	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518010927823	Marionette	INFO	Listening on port 53975
+1518010928591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518010928846	Marionette	DEBUG	Register listener.js for window 4294967297
+1518010928936	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518010931094	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518010931094	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://demo.vtiger.com/layouts/v7/lib/jquery/daterangepicker/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Vtiger.js?v=7.0.1, line 243: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 339: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 501: unreachable code after return statement
+1518010940090	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.vtiger.com/"
+1518010944047	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.vtiger.com/"
+1518011161429	geckodriver	INFO	geckodriver 0.19.1
+1518011161569	geckodriver	INFO	Listening on 127.0.0.1:55692
+1518011164621	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.3TXXzSmR2pZp"
+1518011166568	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518011171541	Marionette	INFO	Listening on port 55729
+1518011172342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518011172493	Marionette	DEBUG	Register listener.js for window 4294967297
+1518011172544	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518011174927	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518011174928	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://demo.vtiger.com/layouts/v7/lib/jquery/daterangepicker/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Vtiger.js?v=7.0.1, line 243: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 339: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 501: unreachable code after return statement
+1518011183413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.vtiger.com/"
+1518011183482	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.vtiger.com/"
+1518011260447	geckodriver	INFO	geckodriver 0.19.1
+1518011260587	geckodriver	INFO	Listening on 127.0.0.1:56445
+1518011263636	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.VHmm9DTwPVKT"
+1518011265269	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518011270471	Marionette	INFO	Listening on port 56481
+1518011271208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518011271384	Marionette	DEBUG	Register listener.js for window 4294967297
+1518011271444	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518011273300	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518011273300	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://demo.vtiger.com/layouts/v7/lib/jquery/daterangepicker/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Vtiger.js?v=7.0.1, line 243: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 339: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 501: unreachable code after return statement
+1518011285223	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.vtiger.com/"
+1518011285568	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.vtiger.com/"
+1518011382408	geckodriver	INFO	geckodriver 0.19.1
+1518011382568	geckodriver	INFO	Listening on 127.0.0.1:57367
+1518011385618	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.dTxMb9Au2mUV"
+1518011387725	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518011393409	Marionette	INFO	Listening on port 57398
+1518011393896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518011394105	Marionette	DEBUG	Register listener.js for window 4294967297
+1518011394194	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518011396908	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518011396909	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://demo.vtiger.com/layouts/v7/lib/jquery/daterangepicker/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Vtiger.js?v=7.0.1, line 243: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 339: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 501: unreachable code after return statement
+1518011411527	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.vtiger.com/"
+1518011412279	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.vtiger.com/"
+1518011425388	Marionette	DEBUG	Received DOM event "beforeunload" for "https://demo.vtiger.com/"
+1518011428206	Marionette	DEBUG	Received DOM event "pagehide" for "https://demo.vtiger.com/"
+1518011428217	Marionette	DEBUG	Received DOM event "unload" for "https://demo.vtiger.com/"
+1518011428240	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.actitime.com/"
+1518011428245	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.actitime.com/"
+1518013668961	geckodriver	INFO	geckodriver 0.19.1
+1518013669122	geckodriver	INFO	Listening on 127.0.0.1:57315
+1518013672149	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.npUqih0tVnod"
+1518013674073	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518013679703	Marionette	INFO	Listening on port 57342
+1518013680272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518013680474	Marionette	DEBUG	Register listener.js for window 4294967297
+1518013680553	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518013682669	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518013682670	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://demo.vtiger.com/layouts/v7/lib/jquery/daterangepicker/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Vtiger.js?v=7.0.1, line 243: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 339: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 501: unreachable code after return statement
+1518013693273	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.vtiger.com/"
+1518013694951	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.vtiger.com/"
+1518095409139	geckodriver	INFO	geckodriver 0.19.1
+1518095409259	geckodriver	INFO	Listening on 127.0.0.1:63456
+1518095412260	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.0CnTGkw2yY95"
+1518095414426	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518095420694	Marionette	INFO	Listening on port 63484
+1518095421226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518095421468	Marionette	DEBUG	Register listener.js for window 4294967297
+1518095421588	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518095422548	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518095422549	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518095427161	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518095431604	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/"
+1518095479902	geckodriver	INFO	geckodriver 0.19.1
+1518095480040	geckodriver	INFO	Listening on 127.0.0.1:63930
+1518095483062	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" 1518095483359	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\fi1518095484880	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6772, CUnable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5808, Chrome_ChildThread] W1518095492044	Marionette	INFO	Listening on port 63960
+1518095492788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518095493079	Marionett1518095493195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518095493385	Marionette	DEBUG	Register listener.1518095494049	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518095494050	Marionette	DEBUG1518095494138	Marionette	DEBUG	Received DOM even1518095499792	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518095501864	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1518095823100	geckodriver	INFO	geckodriver 0.19.1
+1518095823190	geckodriver	INFO	Listening on 127.0.0.1:50102
+1518095826270	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.cXxT8qw15flA"
+1518095828175	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518095835171	Marionette	INFO	Listening on port 50146
+1518095835864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518095836054	Marionette	DEBUG	Register listener.js for window 4294967297
+1518095836116	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518095837038	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518095837039	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518095843344	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518095849325	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/"
+1518095859479	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/"
+1518095859895	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/"
+1518095859899	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/"
+1518095860490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/modules.php"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518095863276	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/modules.php"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518095868308	geckodriver::marionette	ERROR	Failed to kill browser process
+1518096139185	geckodriver	INFO	geckodriver 0.19.1
+1518096139340	geckodriver	INFO	Listening on 127.0.15180961391518096142354	mozrunner::runner	INFO	Running comma1518096142602	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\Ap1518096144458	Marionette	INFO	Enabled via --marion151809Unable to read VR Path Registry from C:\Users\AbhiUnable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium1518096152463	Marionette	INFO	Listening on port 52519
+1518096153003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518096153449	Marionette	DEBUG	Register listener.js for window 4294967297
+1518096153633	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518096154336	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518096154336	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518096162732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/map1518096174571	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/"
+1518096174939	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/"
+1518096175648	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.c1518096176593	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/modules.php"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518096179486	Marionette	DEBUG	Received DOM eJavaScript error: https://maps.googleapis.com/maps/api/js?ke
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+pageshow" for "http://www.orangecrm.com/modules.php"
+1518096819129	geckodriver	INFO	geckodriver 0.19.1
+1518096819319	geckodriver	INFO	Listening on 127.0.0.1:57293
+1518096822251	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.VevjmfsGWtnn"
+1518096824169	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518096829417	Marionette	INFO	Listening on port 57320
+1518096829791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518096830060	Marionette	DEBUG	Register listener.js for window 4294967297
+1518096830189	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518096831043	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518096831044	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518096836058	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518096842082	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/"
+1518096852208	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/"
+1518096852577	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/"
+1518096852581	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/"
+1518096853401	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/modules.php"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518096856616	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/modules.php"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1518096904439	geckodriver	INFO	geckodriver 0.19.1
+1518096904566	geckodriver	INFO	Listening on 127.0.0.1:57978
+1518096907681	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.kxK39XLo6nFg"
+1518096909481	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518096915105	Marionette	INFO	Listening on port 58005
+1518096915402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518096915712	Marionette	DEBUG	Register listener.js for window 4294967297
+1518096915824	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518096916791	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518096916792	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518096921327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518096923898	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/"
+1518096934080	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/"
+1518096934450	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/"
+1518096934454	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/"
+1518096935353	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/modules.php"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518096937769	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/modules.php"
+1518097704582	geckodriver	INFO	geckodriver 0.19.1
+1518097704727	geckodriver	INFO	Listening on 127.0.0.1:63411
+1518097707729	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.Oe9uxm1SXse3"
+1518097709515	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518097714554	Marionette	INFO	Listening on port 63443
+1518097715348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518097715585	Marionette	DEBUG	Register listener.js for window 4294967297
+1518097715649	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518097716811	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518097716812	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518097721495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518097724070	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/"
+1518097734391	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/"
+1518097734823	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/"
+1518097734833	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/"
+1518097735643	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/modules.php"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518097736712	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/modules.php"
+1518097737243	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1518098042152	geckodriver	INFO	geckodriver 0.19.1
+1518098042314	geckodriver	INFO	Listening on 127.0.15180980421518098045374	mozrunner::runner	INFO	Running comma1518098045437	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\Ap1518098047625	Marionette	INFO	Enabled via --marion151809Unable to read VR Path Registry from C:\Users\AbhiUnable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiu1518098057435	Marionette	INFO	Listening on port 49391
+1518098057667	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518098057951	Marionette	DEBUG	Register listener.js for window 4294967297
+1518098058160	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518098059004	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518098059005	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518098063779	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path RegiUnable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://www.orangecrm.com/js/wow.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1518098065727	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 6212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[1518098073939	geckodriver::marionette	ERROR	Failed to kill browser process
+/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518098075631	geckodriver::marionette	ERROR	Failed to kill browser process
+1518098108406	geckodriver	INFO	geckodriver 0.19.1
+1518098108526	geckodriver	INFO	Listening on 127.0.0.1:49939
+1518098111616	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.dfAPsyoolo4M"
+1518098113483	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518098117807	Marionette	INFO	Listening on port 49971
+1518098118292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518098118543	Marionette	DEBUG	Register listener.js for window 4294967297
+1518098118640	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518098119447	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518098119448	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518098125619	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518098132356	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/"
+1518098142512	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/"
+1518098142901	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/"
+1518098142906	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/"
+1518098143798	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/modules.php"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518098145569	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/modules.php"
+1518098145933	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518098271587	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518098271588	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518098278548	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518098286350	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/"
+1518098296542	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/"
+1518098296889	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/"
+1518098296896	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/"
+1518098298083	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/modules.php"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518098300089	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/modules.php"
+1518098300574	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 2524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518098464560	geckodriver	INFO	geckodriver 0.19.1
+1518098464740	geckodriver	INFO	Listening on 127.0.0.1:52510
+1518098467678	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.PPspQADe1CLr"
+1518098469793	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518098475612	Marionette	INFO	Listening on port 52540
+1518098475663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518098475905	Marionette	DEBUG	Register listener.js for window 4294967297
+1518098476194	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518098477015	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518098477017	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518098484636	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518098488375	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/"
+1518098498509	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/"
+1518098499386	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/"
+1518098499393	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/"
+1518098500427	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/modules.php"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518098502582	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/modules.php"
+1518098502975	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518098503087	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/modules.php"
+1518098503450	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/modules.php"
+1518098503453	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/modules.php"
+JavaScript error: http://www.orangecrm.com/orange-message.php, line 285: TypeError: $(...).offset(...) is undefined
+1518098503880	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/orange-message.php"
+1518098506774	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/orange-message.php"
+1518098521723	geckodriver	INFO	geckodriver 0.19.1
+1518098521883	geckodriver	INFO	Listening on 127.0.0.1:52990
+1518098546535	geckodriver	INFO	geckodriver 0.19.1
+1518098546708	geckodriver	INFO	Listening on 127.0.0.1:53161
+1518098549738	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.9IkTFpuOggeI"
+1518098551931	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518098557410	Marionette	INFO	Listening on port 53199
+1518098558133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518098558421	Marionette	DEBUG	Register listener.js for window 4294967297
+1518098558505	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518098559512	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518098559513	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518098565324	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518098569248	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/"
+1518098579450	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/"
+1518098579867	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/"
+1518098579871	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/"
+1518098580892	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/modules.php"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518098582292	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/modules.php"
+1518098582629	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518098582694	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/modules.php"
+1518098583011	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/modules.php"
+1518098583014	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/modules.php"
+JavaScript error: http://www.orangecrm.com/orange-message.php, line 285: TypeError: $(...).offset(...) is undefined
+1518098583731	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/orange-message.php"
+1518098586140	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/orange-message.php"
+1518098673488	geckodriver	INFO	geckodriver 0.19.1
+1518098673616	geckodriver	INFO	Listening on 127.0.0.1:54196
+1518098676696	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.QTMvw0BvqtCa"
+1518098678445	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518098683716	Marionette	INFO	Listening on port 54226
+1518098684186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518098684491	Marionette	DEBUG	Register listener.js for window 4294967297
+1518098684607	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518098686046	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518098686047	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518098691893	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518098697532	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/"
+1518098707711	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/"
+1518098708630	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/"
+1518098708633	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/"
+1518098710382	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/modules.php"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518098710862	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/modules.php"
+1518098711244	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518098711398	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/modules.php"
+1518098712126	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/modules.php"
+1518098712128	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/modules.php"
+JavaScript error: http://www.orangecrm.com/orange-message.php, line 285: TypeError: $(...).offset(...) is undefined
+1518098712746	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/orange-message.php"
+1518098714003	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/orange-message.php"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1518098744393	geckodriver	INFO	geckodriver 0.19.1
+1518098744553	geckodriver	INFO	Listening on 127.0.0.1:54673
+1518098747756	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.fMUxTpHtPzUY"
+1518098749891	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518098757229	Marionette	INFO	Listening on port 54711
+1518098757531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518098757748	Marionette	DEBUG	Register listener.js for window 4294967297
+1518098757893	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518098759063	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518098759063	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518098765199	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518098769319	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/"
+1518098779438	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/"
+1518098779982	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/"
+1518098779983	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/"
+1518098780730	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/modules.php"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518098781896	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/modules.php"
+1518098782355	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518098784431	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/modules.php"
+1518098784815	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/modules.php"
+1518098784816	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/modules.php"
+JavaScript error: http://www.orangecrm.com/orange-message.php, line 285: TypeError: $(...).offset(...) is undefined
+1518098785437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/orange-message.php"
+1518098787022	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/orange-message.php"
+1518099119340	geckodriver	INFO	geckodriver 0.19.1
+1518099119470	geckodriver	INFO	Listening on 127.0.0.1:57112
+1518099122560	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.34sRzfKaMNRI"
+1518099124140	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518099128867	Marionette	INFO	Listening on port 57144
+1518099128917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518099129164	Marionette	DEBUG	Register listener.js for window 4294967297
+1518099129401	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518099130348	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518099130349	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js, line 6: Error: [$injector:modulerr] http://errors.angularjs.org/1.4.8/$injector/modulerr?p0=Registerform&p1=%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.4.8%2F%24injector%2Fmodulerr%3Fp0%3Dui.grid%26p1%3D%255B%2524injector%253Anomod%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.4.8%252F%2524injector%252Fnomod%253Fp0%253Dui.grid%250AG%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A6%253A416%250Ade%252F%253C%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A24%253A186%250Ab%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A251%250Ade%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A494%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A117%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A134%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Aeb%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A41%253A249%250Ac%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A463%250Ayc%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A20%253A274%250AZd%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A83%250A%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A294%253A192%250Ai%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A27446%250AfireWith%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A28215%250Aready%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30006%250AK%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30368%250A%0AG%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A6%3A416%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A391%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A134%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Aeb%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A41%3A249%0Ac%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A463%0Ayc%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A20%3A274%0AZd%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A83%0A%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A294%3A192%0Ai%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A27446%0AfireWith%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A28215%0Aready%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30006%0AK%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30368%0A
+1518099131872	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/"
+1518099133582	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/"
+1518099143684	Marionette	DEBUG	Received DOM event "beforeunload" for "http://demo.automationtesting.in/"
+1518099144223	Marionette	DEBUG	Received DOM event "pagehide" for "http://demo.automationtesting.in/"
+1518099144226	Marionette	DEBUG	Received DOM event "unload" for "http://demo.automationtesting.in/"
+1518099146911	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/SignIn.html"
+1518099147260	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/SignIn.html"
+1518099289508	geckodriver	INFO	geckodriver 0.19.1
+1518099289682	geckodriver	INFO	geckodriver 0.19.1
+15180992891518099292682	mozrunner::runner	INFO	Running comma1518099292962	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\Ap1518099294666	Marionette	INFO	Enabled via --marion151809Unable to read VR Path Registry from C:\Users\AbhiUnable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518099301639	Marionette	INFO	Listening on port 58355
+1518099302726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518099303016	Marionette	DEBUG	Register listener.js for window 4294967297
+1518099303081	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518099304018	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518099304019	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js, line 6: Error: [$injector:modulerr] http://errors.angularjs.org/1.4.8/$injector/modulerr?p0=Registerform&p1=%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.4.8%2F%24injector%2Fmodulerr%3Fp0%3Dui.grid%26p1%3D%255B%2524injector%253Anomod%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.4.8%252F%2524injector%252Fnomod%253Fp0%253Dui.grid%250AG%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A6%253A416%250Ade%252F%253C%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A24%253A186%250Ab%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A251%250Ade%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A494%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A117%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A134%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Aeb%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A41%253A249%250Ac%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A463%250Ayc%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A20%253A274%250AZd%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A83%250A%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A294%253A192%250Ai%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A27446%250AfireWith%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A28215%250Aready%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30006%250AK%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30368%250A%0AG%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A6%3A416%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A391%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A134%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Aeb%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A41%3A249%0Ac%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A463%0Ayc%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A20%3A274%0AZd%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A83%0A%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A294%3A192%0Ai%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A27446%0AfireWith%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A28215%0Aready%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30006%0AK%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30368%0A
+1518099305463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/"
+1518099307555	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/"
+1518099317685	Marionette	DEBUG	Received DOM event "beforeunload" for "http://demo.automationtesting.in/"
+1518099319235	Marionette	DEBUG	Received DOM event "pagehide" for "http://demo.automationtesting.in/"
+1518099319240	Marionette	DEBUG	Received DOM event "unload" for "http://demo.automatio1518099319936	M1518099324692	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/Register.html"
+JavaScript error: http://demo.automationtesting.in/angcontroller.js, line 856: TypeError: scope.menucontainer is undefined
+1518099328559	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/Register.html"
+ngcontroller.js, line 856: TypeError: scope.menucontainer is undefined
+1518099328795	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/Register.html"
+1518099663745	geckodriver	INFO	geckodriver 0.19.1
+1518099663891	geckodriver	INFO	Listening on 127.0.0.1:61082
+1518099667005	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.TSoL2VqkX1SD"
+1518099669275	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 315181518099678712	Marionette	INFO	Listening on port 61125
+1518099679616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518099679929	Marionette	DEBUG	Register listener.js for window 4294967297
+1518099680101	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518099680748	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518099680749	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js, line 6: Error: [$injector:modulerr] http://errors.angularjs.org/1.4.8/$injector/modulerr?p0=Registerform&p1=%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.4.8%2F%24injector%2Fmodulerr%3Fp0%3Dui.grid%26p1%3D%255B%2524injector%253Anomod%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.4.8%252F%2524injector%252Fnomod%253Fp0%253Dui.grid%250AG%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A6%253A416%250Ade%252F%253C%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A24%253A186%250Ab%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A251%250Ade%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A494%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A117%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A134%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Aeb%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A41%253A249%250Ac%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A463%250Ayc%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A20%253A274%250AZd%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A83%250A%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A294%253A192%250Ai%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A27446%250AfireWith%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A28215%250Aready%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30006%250AK%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30368%250A%0AG%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A6%3A416%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A391%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A134%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Aeb%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A41%3A249%0Ac%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A463%0Ayc%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A20%3A274%0AZd%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A83%0A%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A294%3A192%0Ai%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A27446%0AfireWith%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A28215%0Aready%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30006%0AK%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30368%0A
+1518099682369	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in15181518099684531	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in15181518099694722	Marionette	DEBUG	Received DOM event "beforeunload" for "http://demo.automationtesting.in/"
+1518099695393	Marionette	DEBUG	Received DOM event "pagehide" for "http://demo.automationtesting.in/"
+1518099695398	Marionette	DEBUG	Received DOM event "unload" for "http://demo.automationtesting.in15181518099699140	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/Register.html"
+JavaScript error: http://demo.automationtesting.in/angcontroller.js, line 856: TypeError: scope.menucontainer is undefined
+1518099701058	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/Register.htm
+##
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1518118368854	geckodriver	INFO	geckodriver 0.19.1
+1518118368971	geckodriver	INFO	Listening on 127.0.0.1:52621
+1518118372049	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.oReWksdW2Krb"
+1518118375450	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5768, Chrome_CUnable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registr1518118387478	Marionette	INFO	Listening on port 52655
+1518118388129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518118388375	Marionette	DEBUG	Register listener.js for window 4294967297
+1518118388581	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518118389111	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518118389112	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518118393628	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518118395191	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/"
+1518118405352	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/"
+1518118405681	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/"
+1518118405689	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/"
+1518118407142	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/modules.php"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518118407516	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/mod1518118408522	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/modules.php"1518118410334	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/modules.php"
+1518118410669	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/modules.php"
+1518118410674	Marionette	DEBUG	Received 1518118410707	Marionette	DEBUG	Canceled page load listener becaJavaScript error: http://www.orangecr1518118412810	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/modules.php"
+1518118413077	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/modules.php"
+1518118413081	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/modules.p
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+rionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/orange-message.php"
+1518118414767	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/orange-message.php"
+1518118447751	geckodriver	INFO	geckodriver 0.19.1
+1518118447909	geckodriver	INFO	Listening on 127.0.0.1:53231
+1518118450948	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.AwjvtSBd3Rn3"
+1518118452805	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518118458056	Marionette	INFO	Listening on port 53252
+1518118458478	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518118458711	Marionette	DEBUG	Register listener.js for window 4294967297
+1518118458804	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518118459398	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518118459398	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518118460613	DeferredSave.webext.sc.lz4	WARN	Write failed: Win error 32 during operation move on file C:\Users\Abhishek\AppData\Local\Temp\rust_mozprofile.AwjvtSBd3Rn3\startupCache\webext.sc.lz4.tmp (The process cannot access the file because it is being used by another process.
+) ((unknown module)) No traceback available
+1518118463517	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518118464397	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/"
+1518118474660	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/"
+1518118475161	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/"
+1518118475183	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/"
+1518118476134	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/modules.php"
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false, line 89: TypeError: a is null
+1518118476476	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/modules.php"
+1518118476855	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518118478930	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.orangecrm.com/modules.php"
+1518118479213	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.orangecrm.com/modules.php"
+1518118479216	Marionette	DEBUG	Received DOM event "unload" for "http://www.orangecrm.com/modules.php"
+JavaScript error: http://www.orangecrm.com/orange-fulfillment.php, line 287: TypeError: $(...).offset(...) is undefined
+1518118479962	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.orangecrm.com/orange-fulfillment.php"
+1518118480551	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.orangecrm.com/orange-fulfillment.php"
+1518118929900	geckodriver	INFO	geckodriver 0.19.1
+1518118930020	geckodriver	INFO	Listening on 127.0.0.1:56078
+1518118933106	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.WuY3703Ki05Q"
+1518118935366	Marionette	INFO	Enabled via --marionette
+1518118945778	Marionette	INFO	Listening on port 56110
+1518118946306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518118946525	Marionette	DEBUG	Register listener.js for window 4294967297
+1518118946661	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518118947276	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518118947277	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js, line 6: Error: [$injector:modulerr] http://errors.angularjs.org/1.4.8/$injector/modulerr?p0=Registerform&p1=%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.4.8%2F%24injector%2Fmodulerr%3Fp0%3Dui.grid%26p1%3D%255B%2524injector%253Anomod%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.4.8%252F%2524injector%252Fnomod%253Fp0%253Dui.grid%250AG%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A6%253A416%250Ade%252F%253C%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A24%253A186%250Ab%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A251%250Ade%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A494%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A117%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A134%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Aeb%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A41%253A249%250Ac%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A463%250Ayc%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A20%253A274%250AZd%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A83%250A%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A294%253A192%250Ai%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A27446%250AfireWith%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A28215%250Aready%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30006%250AK%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30368%250A%0AG%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A6%3A416%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A391%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A134%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Aeb%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A41%3A249%0Ac%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A463%0Ayc%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A20%3A274%0AZd%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A83%0A%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A294%3A192%0Ai%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A27446%0AfireWith%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A28215%0Aready%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30006%0AK%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30368%0A
+1518118947778	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/"
+1518118948018	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/"
+1518118958156	Marionette	DEBUG	Received DOM event "beforeunload" for "http://demo.automationtesting.in/"
+1518118958690	Marionette	DEBUG	Received DOM event "pagehide" for "http://demo.automationtesting.in/"
+1518118958693	Marionette	DEBUG	Received DOM event "unload" for "http://demo.automationtesting.in/"
+1518118962125	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/SignIn.html"
+1518118962392	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/SignIn.html"
+1518118966398	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 7944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+1518119040707	geckodriver	INFO	geckodriver 0.19.1
+1518119040871	geckodriver	INFO	Listening on 127.0.0.1:56814
+1518119043930	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.Eb8jvjaz2BVi"
+1518119045528	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518119054249	Marionette	INFO	Listening on port 56845
+1518119054660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518119054938	Marionette	DEBUG	Register listener.js for window 4294967297
+1518119055048	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518119055648	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518119055649	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js, line 6: Error: [$injector:modulerr] http://errors.angularjs.org/1.4.8/$injector/modulerr?p0=Registerform&p1=%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.4.8%2F%24injector%2Fmodulerr%3Fp0%3Dui.grid%26p1%3D%255B%2524injector%253Anomod%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.4.8%252F%2524injector%252Fnomod%253Fp0%253Dui.grid%250AG%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A6%253A416%250Ade%252F%253C%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A24%253A186%250Ab%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A251%250Ade%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A494%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A117%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A134%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Aeb%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A41%253A249%250Ac%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A463%250Ayc%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A20%253A274%250AZd%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A83%250A%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A294%253A192%250Ai%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A27446%250AfireWith%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A28215%250Aready%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30006%250AK%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30368%250A%0AG%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A6%3A416%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A391%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A134%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Aeb%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A41%3A249%0Ac%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A463%0Ayc%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A20%3A274%0AZd%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A83%0A%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A294%3A192%0Ai%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A27446%0AfireWith%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A28215%0Aready%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30006%0AK%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30368%0A
+1518119056289	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/"
+1518119056624	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/"
+1518119066807	Marionette	DEBUG	Received DOM event "beforeunload" for "http://demo.automationtesting.in/"
+1518119067326	Marionette	DEBUG	Received DOM event "pagehide" for "http://demo.automationtesting.in/"
+1518119067328	Marionette	DEBUG	Received DOM event "unload" for "http://demo.automationtesting.in/"
+1518119070956	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/Register.html"
+JavaScript error: http://demo.automationtesting.in/angcontroller.js, line 856: TypeError: scope.menucontainer is undefined
+1518119073468	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/Register.html"
+1518119441489	geckodriver	INFO	geckodriver 0.19.1
+1518119441609	geckodriver	INFO	Listening on 127.0.0.1:59246
+1518119444607	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.gkUZsYffjj2M"
+1518119446507	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518119455146	Marionette	INFO	Listening on port 59276
+1518119456254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518119456521	Marionette	DEBUG	Register listener.js for window 4294967297
+1518119456711	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518119457305	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518119457305	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js, line 6: Error: [$injector:modulerr] http://errors.angularjs.org/1.4.8/$injector/modulerr?p0=Registerform&p1=%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.4.8%2F%24injector%2Fmodulerr%3Fp0%3Dui.grid%26p1%3D%255B%2524injector%253Anomod%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.4.8%252F%2524injector%252Fnomod%253Fp0%253Dui.grid%250AG%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A6%253A416%250Ade%252F%253C%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A24%253A186%250Ab%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A251%250Ade%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A494%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A117%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A134%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Aeb%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A41%253A249%250Ac%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A463%250Ayc%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A20%253A274%250AZd%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A83%250A%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A294%253A192%250Ai%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A27446%250AfireWith%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A28215%250Aready%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30006%250AK%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30368%250A%0AG%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A6%3A416%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A391%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A134%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Aeb%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A41%3A249%0Ac%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A463%0Ayc%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A20%3A274%0AZd%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A83%0A%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A294%3A192%0Ai%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A27446%0AfireWith%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A28215%0Aready%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30006%0AK%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30368%0A
+1518119457910	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/"
+1518119458263	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/"
+1518119468443	Marionette	DEBUG	Received DOM event "beforeunload" for "http://demo.automationtesting.in/"
+1518119468954	Marionette	DEBUG	Received DOM event "pagehide" for "http://demo.automationtesting.in/"
+1518119468956	Marionette	DEBUG	Received DOM event "unload" for "http://demo.automationtesting.in/"
+console.error: 
+  Could not write session state file 
+  Message: Win error 32 during operation move on file C:\Users\Abhishek\AppData\Local\Temp\rust_mozprofile.gkUZsYffjj2M\sessionstore-backups\recovery.jsonlz4.tmp (The process cannot access the file because it is being used by another process.
+)
+  
+1518119473310	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/Register.html"
+JavaScript error: http://demo.automationtesting.in/angcontroller.js, line 856: TypeError: scope.menucontainer is undefined
+1518119672779	geckodriver	INFO	geckodriver 0.19.1
+1518119672966	geckodriver	INFO	Listening on 127.0.0.1:60579
+1518119677231	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.UjnIp4OX2g7J"
+1518119681256	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518119691047	Marionette	INFO	Listening on port 60617
+1518119691943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518119692085	Marionette	DEBUG	Register listener.js for window 4294967297
+1518119692256	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518119692974	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518119692975	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js, line 6: Error: [$injector:modulerr] http://errors.angularjs.org/1.4.8/$injector/modulerr?p0=Registerform&p1=%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.4.8%2F%24injector%2Fmodulerr%3Fp0%3Dui.grid%26p1%3D%255B%2524injector%253Anomod%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.4.8%252F%2524injector%252Fnomod%253Fp0%253Dui.grid%250AG%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A6%253A416%250Ade%252F%253C%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A24%253A186%250Ab%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A251%250Ade%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A494%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A117%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A134%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Aeb%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A41%253A249%250Ac%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A463%250Ayc%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A20%253A274%250AZd%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A83%250A%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A294%253A192%250Ai%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A27446%250AfireWith%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A28215%250Aready%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30006%250AK%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30368%250A%0AG%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A6%3A416%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A391%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A134%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Aeb%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A41%3A249%0Ac%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A463%0Ayc%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A20%3A274%0AZd%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A83%0A%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A294%3A192%0Ai%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A27446%0AfireWith%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A28215%0Aready%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30006%0AK%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30368%0A
+1518119693910	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/"
+1518119694170	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/"
+1518119704253	Marionette	DEBUG	Received DOM event "beforeunload" for "http://demo.automationtesting.in/"
+1518119704761	Marionette	DEBUG	Received DOM event "pagehide" for "http://demo.automationtesting.in/"
+1518119704762	Marionette	DEBUG	Received DOM event "unload" for "http://demo.automationtesting.in/"
+1518119707362	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/Register.html"
+JavaScript error: http://demo.automationtesting.in/angcontroller.js, line 856: TypeError: scope.menucontainer is undefined
+1518119710696	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/Register.html"
+1518119714287	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1518119761413	geckodriver	INFO	geckodriver 0.19.1
+1518119761604	geckodriver	INFO	Listening on 127.0.0.1:61161
+1518119764995	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.CxA84WmvzNKF"
+1518119768729	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518119776540	Marionette	INFO	Listening on port 61190
+1518119777218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518119777405	Marionette	DEBUG	Register listener.js for window 4294967297
+1518119777757	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518119778449	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518119778449	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js, line 6: Error: [$injector:modulerr] http://errors.angularjs.org/1.4.8/$injector/modulerr?p0=Registerform&p1=%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.4.8%2F%24injector%2Fmodulerr%3Fp0%3Dui.grid%26p1%3D%255B%2524injector%253Anomod%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.4.8%252F%2524injector%252Fnomod%253Fp0%253Dui.grid%250AG%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A6%253A416%250Ade%252F%253C%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A24%253A186%250Ab%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A251%250Ade%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A494%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A117%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A134%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A331%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A488%250Aeb%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A41%253A249%250Ac%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A463%250Ayc%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A20%253A274%250AZd%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A83%250A%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A294%253A192%250Ai%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A27446%250AfireWith%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A28215%250Aready%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30006%250AK%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30368%250A%0AG%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A6%3A416%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A391%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A134%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A331%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A488%0Aeb%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A41%3A249%0Ac%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A463%0Ayc%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A20%3A274%0AZd%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A83%0A%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A294%3A192%0Ai%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A27446%0AfireWith%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A28215%0Aready%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30006%0AK%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30368%0A
+1518119779105	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/"
+1518119779651	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/"
+1518119789718	Marionette	DEBUG	Received DOM event "beforeunload" for "http://demo.automationtesting.in/"
+1518119790253	Marionette	DEBUG	Received DOM event "pagehide" for "http://demo.automationtesting.in/"
+1518119790254	Marionette	DEBUG	Received DOM event "unload" for "http://demo.automationtesting.in/"
+1518119793026	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/Register.html"
+JavaScript error: http://demo.automationtesting.in/angcontroller.js, line 856: TypeError: scope.menucontainer is undefined
+1518119796948	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/Register.html"
+1518119800246	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518119800304	Marionette	DEBUG	Received DOM event "beforeunload" for "http://demo.automationtesting.in/Register.html"
+1518119800818	Marionette	DEBUG	Received DOM event "pagehide" for "http://demo.automationtesting.in/Register.html"
+1518119800822	Marionette	DEBUG	Received DOM event "unload" for "http://demo.automationtesting.in/Register.html"
+1518119800836	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1518119801895	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1518119801896	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1518119801897	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1518119801897	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1518119801897	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1518119801897	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1518119801898	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1518119802414	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://demo.automationtesting.in/FileDownload.html"
+JavaScript warning: https://s0.2mdn.net/ads/studio/videoteaser/0/avc_codec.js, line 0: Successfully compiled asm.js code (total compilation time 238ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+JavaScript warning: https://s0.2mdn.net/ads/studio/videoteaser/0/video_teaser_lib.js, line 0: Successfully compiled asm.js code (total compilation time 6ms; not stored in cache (too small to benefit))
+JavaScript warning: https://s0.2mdn.net/ads/studio/videoteaser/0/avc_codec.js, line 0: Successfully compiled asm.js code (total compilation time 161ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+JavaScript warning: https://s0.2mdn.net/ads/studio/videoteaser/0/video_teaser_lib.js, line 0: Successfully compiled asm.js code (total compilation time 45ms; not stored in cache (too small to benefit))
+JavaScript warning: https://s0.2mdn.net/ads/studio/videoteaser/0/avc_codec.js, line 0: Successfully compiled asm.js code (total compilation time 168ms; stored in cache)
+JavaScript warning: https://s0.2mdn.net/ads/studio/videoteaser/0/video_teaser_lib.js, line 0: Successfully compiled asm.js code (total compilation time 70ms; not stored in cache (too small to benefit))
+1518119810732	Marionette	DEBUG	Received DOM event "pageshow" for "http://demo.automationtesting.in/FileDownload.html"
+1518181988745	geckodriver	INFO	geckodriver 0.19.1
+1518181988930	geckodriver	INFO	Listening on 127.0.0.1:53626
+1518181992065	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.VvfDxrpGMU5d"
+1518182002247	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518182019284	Marionette	INFO	Listening on port 53646
+1518182019451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518182019676	Marionette	DEBUG	Register listener.js for window 4294967297
+1518182020309	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518182023198	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518182023199	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518182023232	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.actitime.com/"
+1518182023236	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.actitime.com/"
+1518182180348	geckodriver	INFO	geckodriver 0.19.1
+1518182180499	geckodriver	INFO	Listening on 127.0.0.1:54647
+1518182183470	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.yAcLw8XgMcUL"
+1518182185348	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518182190720	Marionette	INFO	Listening on port 54674
+1518182190980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518182191217	Marionette	DEBUG	Register listener.js for window 4294967297
+1518182191430	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518182193635	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518182193635	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518182193658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.actitime.com/"
+1518182193663	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.actitime.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1518677714388	geckodriver	INFO	geckodriver 0.19.1
+1518677714546	geckodriver	INFO	Listening on 127.0.0.1:54075
+1518677720259	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.nWLXOc1ZNdek"
+1518677755630	Marionette	INFO	Enabled via --marionette
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518677801851	Marionette	INFO	Listening on port 54112
+1518677802459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518677802724	Marionette	DEBUG	Register listener.js for window 4294967297
+1518677805356	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518677808883	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518677808884	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518677808903	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.actitime.com/"
+1518677808908	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.actitime.com/"
+on
+1518677803104	Marionette	DEBUG	Register listener.js for window 4294967297
+1518677805650	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518677808888	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518677808889	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518677808917	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.actitime.com/"
+1518677808929	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.actitime.com/"
+1518677863903	geckodriver	INFO	geckodriver 0.19.1
+1518677864052	geckodriver	INFO	Listening on 127.0.0.1:54865
+1518677887273	geckodriver	INFO	geckodriver 0.19.1
+1518677887397	geckodriver	INFO	Listening on 127.0.0.1:54968
+1518677890437	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.3UtSRxNef5aF"
+1518677892223	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1518677897750	Marionette	INFO	Listening on port 54990
+1518677897802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518677898027	Marionette	DEBUG	Register listener.js for window 4294967297
+1518677898358	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518677899493	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518677899493	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://demo.vtiger.com/layouts/v7/lib/jquery/daterangepicker/moment.min.js, line 6: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/validation.js?v=7.0.1, line 69: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Vtiger.js?v=7.0.1, line 243: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 339: unreachable code after return statement
+JavaScript warning: https://demo.vtiger.com/layouts/v7/modules/Vtiger/resources/Popup.js?v=7.0.1, line 501: unreachable code after return statement
+1518677902991	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://demo.vtiger.com/"
+1518677904002	Marionette	DEBUG	Received DOM event "pageshow" for "https://demo.vtiger.com/"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x22000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1521007529571	geckodriver	INFO	geckodriver 0.19.1
+1521007529761	geckodriver	INFO	Listening on 127.0.0.1:52528
+1521007533161	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.QnwZhiwiQ8DW"
+1521007549706	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1521007576344	Marionette	INFO	Listening on port 52561
+1521007577351	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://demo.vtiger.com/layouts/v7/lib/jquery/daterangepicker/moment.min.js, line 6: unreachable code after return statement
+\openvr\openvrpaths.vrpath
+[Child 2416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1521007576344	Marionette	INFO	Listening on port 52663
+1521007577059	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:278 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4406 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2270
+[Parent 5536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1521007577303	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Promise rejected after context unloaded: Message manager disconnected
+[Parent 5536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Abhishek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1521007635534	geckodriver	INFO	geckodriver 0.19.1
+1521007635664	geckodriver	INFO	Listening on 127.0.0.1:53184
+1521008069844	geckodriver	INFO	geckodriver 0.19.1
+1521008069994	geckodriver	INFO	Listening on 127.0.0.1:55443
+1521008073044	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.IQ81x2PqP560"
+1521008074749	Marionette	INFO	Enabled via --marionette
+1521008079969	Marionette	INFO	Listening on port 55463
+1521008080395	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2A000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+1521008467855	geckodriver	INFO	geckodriver 0.19.1
+1521008467985	geckodriver	INFO	Listening on 127.0.0.1:57470
+1521008470995	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Abhishek\\AppData\\Local\\Temp\\rust_mozprofile.nWtvMP3rxOKd"
+1521008473415	Marionette	INFO	Enabled via --marionette
+1521008479275	Marionette	INFO	Listening on port 57492
+1521008479986	Marionette	WARN	TLS certificate errors will be ignored for this session
